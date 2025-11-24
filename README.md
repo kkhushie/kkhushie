@@ -4,6 +4,7 @@
 💻 Full Stack Developer (MERN & Next.js)  
 📚 Pursuing M.Sc. IT @ DAIICT  
 🚀 Love building real-world projects & solving DSA  
+🌱 Aspiring Open Source Contributor  
 💬 Open to collabs on cool dev stuff!
 
 ## 🌐 Socials
